@@ -1,4 +1,5 @@
----
+<h1>Control + Shift + m
+</h1>---
 title: Quick Guide - BNB Smart Chain (BSC)
 ---
 
